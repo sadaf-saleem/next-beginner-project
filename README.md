@@ -1,6 +1,6 @@
 # 🚀 Next.js Prediction App
 
-A beginner-friendly web application built with **Next.js 13** using the App Router. Enter any name and the app predicts the person's **age**, **gender**, and **nationality** using public APIs.
+A beginner-friendly web application built with **Next.js** using the App Router. Enter any name and the app predicts the person's **age**, **gender**, and **nationality** using public APIs.
 
 ---
 
@@ -8,7 +8,7 @@ A beginner-friendly web application built with **Next.js 13** using the App Rout
 
 This project demonstrates:
 
-- ✅ Next.js 13 **App Router** with `src/app` structure
+- ✅ Next.js  **App Router** with `src/app` structure
 - ✅ **Dynamic routing** via `[name]` segment
 - ✅ **Parallel API fetching** with `Promise.all`
 - ✅ **Loading & Error** states with `loading.tsx` and `error.tsx`
@@ -21,7 +21,7 @@ This project demonstrates:
 
 | Technology | Description |
 |------------|-------------|
-| [Next.js 13](https://nextjs.org/) | React framework with App Router |
+| [Next.js ](https://nextjs.org/) | React framework with App Router |
 | [TypeScript](https://www.typescriptlang.org/) | Type-safe JavaScript |
 | [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework |
 | [Agify API](https://agify.io/) | Predicts age from a name |
@@ -119,7 +119,7 @@ Navigate to `/prediction/[name]` — for example `/prediction/Ali` — and the a
 
 ## 📚 What I Learned
 
-- Setting up Next.js 13 with `src/app` directory structure
+- Setting up Next.js with `src/app` directory structure
 - Using **dynamic routes** with `[name]` segments
 - Fetching multiple APIs in parallel with **`Promise.all`**
 - Handling **loading** and **error** states with special Next.js files
@@ -142,4 +142,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-> Built with ❤️ while learning Next.js 13
+
